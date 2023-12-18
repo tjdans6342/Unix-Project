@@ -4,6 +4,12 @@
 - 프로젝트 가이드라인 PDF 파일 ([프로젝트 가이드라인](https://github.com/tjdans6342/Unix-Project/files/11182589/default.pdf))
 - 프로젝트 발표 PPT 파일 ([유닉스 프로젝트 발표 PPT](https://github.com/tjdans6342/Unix-Project/files/11182595/_._locker_12.pptx))
 
+<br><br>
+
+## 사용 기술
+
+- Unix
+- C
 
 <br><br>
 
